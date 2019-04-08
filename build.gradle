@@ -1,0 +1,2 @@
+// will fail with "> No such property: Dagger for class: Libs"
+println(Libs.Dagger.core)
